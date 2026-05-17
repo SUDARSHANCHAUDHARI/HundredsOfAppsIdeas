@@ -54,3 +54,6 @@ dist/
 build/
 out/
 PLAN.md
+
+# graphify knowledge graph
+graphify-out/
