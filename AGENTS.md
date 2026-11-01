@@ -13,7 +13,7 @@
 
 ## Codex Rules
 
-- Global context comes from `~/.codex/AGENTS.md`.
+- Global context comes from `$CODEX_HOME/AGENTS.md`.
 - Verify actual files before claiming repo state, config, counts, or duplicates.
 - Do not commit secrets, `.env*`, local config, signing material, generated caches, sessions, or auth files.
 - Stage files by explicit path only.
